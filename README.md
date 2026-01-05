@@ -1,0 +1,1 @@
+a simple installer for arch linux that you can intergrate with archiso and make a desktop file foe it and its easy to rebran it will copy full /usr but you need only need to change grub distrubutor : "your distro name" and /etc/os-release in the installer
